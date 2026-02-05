@@ -7,7 +7,7 @@ const Navigation = () => {
             <div className="profile-header">
                 <div className="profile-image">
                     <img
-                        src="../assets/IMG_9367 2.JPG"
+                        src=""
                         alt="Profile"
                     />
                 </div>
